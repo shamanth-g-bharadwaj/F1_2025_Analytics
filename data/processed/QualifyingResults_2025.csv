@@ -1,0 +1,281 @@
+raceId,driverId,driverName,teamName,q1Time,q2Time,q3Time,bestQTime,finalPosition
+2025_R01,NOR,Lando Norris,McLaren,0 days 00:01:15.912000,0 days 00:01:15.415000,0 days 00:01:15.096000,,1
+2025_R01,PIA,Oscar Piastri,McLaren,0 days 00:01:16.062000,0 days 00:01:15.468000,0 days 00:01:15.180000,,2
+2025_R01,VER,Max Verstappen,Red Bull Racing,0 days 00:01:16.018000,0 days 00:01:15.565000,0 days 00:01:15.481000,,3
+2025_R01,RUS,George Russell,Mercedes,0 days 00:01:15.971000,0 days 00:01:15.798000,0 days 00:01:15.546000,,4
+2025_R01,TSU,Yuki Tsunoda,Racing Bulls,0 days 00:01:16.225000,0 days 00:01:16.009000,0 days 00:01:15.670000,,5
+2025_R01,ALB,Alexander Albon,Williams,0 days 00:01:16.245000,0 days 00:01:16.017000,0 days 00:01:15.737000,,6
+2025_R01,LEC,Charles Leclerc,Ferrari,0 days 00:01:16.029000,0 days 00:01:15.827000,0 days 00:01:15.755000,,7
+2025_R01,HAM,Lewis Hamilton,Ferrari,0 days 00:01:16.213000,0 days 00:01:15.919000,0 days 00:01:15.973000,,8
+2025_R01,GAS,Pierre Gasly,Alpine,0 days 00:01:16.328000,0 days 00:01:16.112000,0 days 00:01:15.980000,,9
+2025_R01,SAI,Carlos Sainz,Williams,0 days 00:01:16.360000,0 days 00:01:15.931000,0 days 00:01:16.062000,,10
+2025_R01,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:16.354000,0 days 00:01:16.175000,,,11
+2025_R01,ALO,Fernando Alonso,Aston Martin,0 days 00:01:16.288000,0 days 00:01:16.453000,,,12
+2025_R01,STR,Lance Stroll,Aston Martin,0 days 00:01:16.369000,0 days 00:01:16.483000,,,13
+2025_R01,DOO,Jack Doohan,Alpine,0 days 00:01:16.315000,0 days 00:01:16.863000,,,14
+2025_R01,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:16.516000,0 days 00:01:17.520000,,,15
+2025_R01,ANT,Andrea Kimi Antonelli,Mercedes,0 days 00:01:16.525000,,,,16
+2025_R01,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:16.579000,,,,17
+2025_R01,LAW,Liam Lawson,Red Bull Racing,0 days 00:01:17.094000,,,,18
+2025_R01,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:17.147000,,,,19
+2025_R01,BEA,Oliver Bearman,Haas F1 Team,,,,,20
+2025_R02,PIA,Oscar Piastri,McLaren,0 days 00:01:31.591000,0 days 00:01:31.200000,0 days 00:01:30.641000,,1
+2025_R02,RUS,George Russell,Mercedes,0 days 00:01:31.295000,0 days 00:01:31.307000,0 days 00:01:30.723000,,2
+2025_R02,NOR,Lando Norris,McLaren,0 days 00:01:30.983000,0 days 00:01:30.787000,0 days 00:01:30.793000,,3
+2025_R02,VER,Max Verstappen,Red Bull Racing,0 days 00:01:31.424000,0 days 00:01:31.142000,0 days 00:01:30.817000,,4
+2025_R02,HAM,Lewis Hamilton,Ferrari,0 days 00:01:31.690000,0 days 00:01:31.501000,0 days 00:01:30.927000,,5
+2025_R02,LEC,Charles Leclerc,Ferrari,0 days 00:01:31.579000,0 days 00:01:31.450000,0 days 00:01:31.021000,,6
+2025_R02,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:31.162000,0 days 00:01:31.253000,0 days 00:01:31.079000,,7
+2025_R02,ANT,Andrea Kimi Antonelli,Mercedes,0 days 00:01:31.676000,0 days 00:01:31.590000,0 days 00:01:31.103000,,8
+2025_R02,TSU,Yuki Tsunoda,Racing Bulls,0 days 00:01:31.238000,0 days 00:01:31.260000,0 days 00:01:31.638000,,9
+2025_R02,ALB,Alexander Albon,Williams,0 days 00:01:31.503000,0 days 00:01:31.595000,0 days 00:01:31.706000,,10
+2025_R02,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:31.876000,0 days 00:01:31.625000,,,11
+2025_R02,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:31.921000,0 days 00:01:31.632000,,,12
+2025_R02,ALO,Fernando Alonso,Aston Martin,0 days 00:01:31.719000,0 days 00:01:31.688000,,,13
+2025_R02,STR,Lance Stroll,Aston Martin,0 days 00:01:31.923000,0 days 00:01:31.773000,,,14
+2025_R02,SAI,Carlos Sainz,Williams,0 days 00:01:31.628000,0 days 00:01:31.840000,,,15
+2025_R02,GAS,Pierre Gasly,Alpine,0 days 00:01:31.992000,,,,16
+2025_R02,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:32.018000,,,,17
+2025_R02,DOO,Jack Doohan,Alpine,0 days 00:01:32.092000,,,,18
+2025_R02,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:32.141000,,,,19
+2025_R02,LAW,Liam Lawson,Red Bull Racing,0 days 00:01:32.174000,,,,20
+2025_R03,VER,Max Verstappen,Red Bull Racing,0 days 00:01:27.943000,0 days 00:01:27.502000,0 days 00:01:26.983000,,1
+2025_R03,NOR,Lando Norris,McLaren,0 days 00:01:27.845000,0 days 00:01:27.146000,0 days 00:01:26.995000,,2
+2025_R03,PIA,Oscar Piastri,McLaren,0 days 00:01:27.687000,0 days 00:01:27.507000,0 days 00:01:27.027000,,3
+2025_R03,LEC,Charles Leclerc,Ferrari,0 days 00:01:27.920000,0 days 00:01:27.555000,0 days 00:01:27.299000,,4
+2025_R03,RUS,George Russell,Mercedes,0 days 00:01:27.843000,0 days 00:01:27.400000,0 days 00:01:27.318000,,5
+2025_R03,ANT,Kimi Antonelli,Mercedes,0 days 00:01:27.968000,0 days 00:01:27.639000,0 days 00:01:27.555000,,6
+2025_R03,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:28.278000,0 days 00:01:27.775000,0 days 00:01:27.569000,,7
+2025_R03,HAM,Lewis Hamilton,Ferrari,0 days 00:01:27.942000,0 days 00:01:27.610000,0 days 00:01:27.610000,,8
+2025_R03,ALB,Alexander Albon,Williams,0 days 00:01:28.218000,0 days 00:01:27.783000,0 days 00:01:27.615000,,9
+2025_R03,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:28.228000,0 days 00:01:27.711000,0 days 00:01:27.867000,,10
+2025_R03,GAS,Pierre Gasly,Alpine,0 days 00:01:28.186000,0 days 00:01:27.822000,,,11
+2025_R03,SAI,Carlos Sainz,Williams,0 days 00:01:28.209000,0 days 00:01:27.836000,,,12
+2025_R03,ALO,Fernando Alonso,Aston Martin,0 days 00:01:28.337000,0 days 00:01:27.897000,,,13
+2025_R03,LAW,Liam Lawson,Racing Bulls,0 days 00:01:28.554000,0 days 00:01:27.906000,,,14
+2025_R03,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:27.967000,0 days 00:01:28,,,15
+2025_R03,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:28.570000,,,,16
+2025_R03,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:28.622000,,,,17
+2025_R03,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:28.696000,,,,18
+2025_R03,DOO,Jack Doohan,Alpine,0 days 00:01:28.877000,,,,19
+2025_R03,STR,Lance Stroll,Aston Martin,0 days 00:01:29.271000,,,,20
+2025_R04,PIA,Oscar Piastri,McLaren,0 days 00:01:31.392000,0 days 00:01:30.454000,0 days 00:01:29.841000,,1
+2025_R04,RUS,George Russell,Mercedes,0 days 00:01:31.494000,0 days 00:01:30.664000,0 days 00:01:30.009000,,2
+2025_R04,LEC,Charles Leclerc,Ferrari,0 days 00:01:31.454000,0 days 00:01:30.724000,0 days 00:01:30.175000,,3
+2025_R04,ANT,Kimi Antonelli,Mercedes,0 days 00:01:31.415000,0 days 00:01:30.716000,0 days 00:01:30.213000,,4
+2025_R04,GAS,Pierre Gasly,Alpine,0 days 00:01:31.462000,0 days 00:01:30.643000,0 days 00:01:30.216000,,5
+2025_R04,NOR,Lando Norris,McLaren,0 days 00:01:31.107000,0 days 00:01:30.560000,0 days 00:01:30.267000,,6
+2025_R04,VER,Max Verstappen,Red Bull Racing,0 days 00:01:31.303000,0 days 00:01:31.019000,0 days 00:01:30.423000,,7
+2025_R04,SAI,Carlos Sainz,Williams,0 days 00:01:31.591000,0 days 00:01:30.844000,0 days 00:01:30.680000,,8
+2025_R04,HAM,Lewis Hamilton,Ferrari,0 days 00:01:31.219000,0 days 00:01:31.009000,0 days 00:01:30.772000,,9
+2025_R04,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:31.751000,0 days 00:01:31.228000,0 days 00:01:31.303000,,10
+2025_R04,DOO,Jack Doohan,Alpine,0 days 00:01:31.414000,0 days 00:01:31.245000,,,11
+2025_R04,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:31.591000,0 days 00:01:31.271000,,,12
+2025_R04,ALO,Fernando Alonso,Aston Martin,0 days 00:01:31.634000,0 days 00:01:31.886000,,,13
+2025_R04,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:31.594000,,,,14
+2025_R04,ALB,Alexander Albon,Williams,0 days 00:01:32.040000,,,,15
+2025_R04,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:32.067000,,,,16
+2025_R04,LAW,Liam Lawson,Racing Bulls,0 days 00:01:32.165000,,,,17
+2025_R04,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:32.186000,,,,18
+2025_R04,STR,Lance Stroll,Aston Martin,0 days 00:01:32.283000,,,,19
+2025_R04,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:32.373000,,,,20
+2025_R05,VER,Max Verstappen,Red Bull Racing,0 days 00:01:27.778000,0 days 00:01:27.529000,0 days 00:01:27.294000,,1
+2025_R05,PIA,Oscar Piastri,McLaren,0 days 00:01:27.901000,0 days 00:01:27.545000,0 days 00:01:27.304000,,2
+2025_R05,RUS,George Russell,Mercedes,0 days 00:01:28.282000,0 days 00:01:27.599000,0 days 00:01:27.407000,,3
+2025_R05,LEC,Charles Leclerc,Ferrari,0 days 00:01:28.552000,0 days 00:01:27.866000,0 days 00:01:27.670000,,4
+2025_R05,ANT,Kimi Antonelli,Mercedes,0 days 00:01:28.128000,0 days 00:01:27.798000,0 days 00:01:27.866000,,5
+2025_R05,SAI,Carlos Sainz,Williams,0 days 00:01:28.354000,0 days 00:01:28.024000,0 days 00:01:28.164000,,6
+2025_R05,HAM,Lewis Hamilton,Ferrari,0 days 00:01:28.372000,0 days 00:01:28.102000,0 days 00:01:28.201000,,7
+2025_R05,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:28.226000,0 days 00:01:27.990000,0 days 00:01:28.204000,,8
+2025_R05,GAS,Pierre Gasly,Alpine,0 days 00:01:28.421000,0 days 00:01:28.025000,0 days 00:01:28.367000,,9
+2025_R05,NOR,Lando Norris,McLaren,0 days 00:01:27.805000,0 days 00:01:27.481000,,,10
+2025_R05,ALB,Alexander Albon,Williams,0 days 00:01:28.279000,0 days 00:01:28.109000,,,11
+2025_R05,LAW,Liam Lawson,Racing Bulls,0 days 00:01:28.561000,0 days 00:01:28.191000,,,12
+2025_R05,ALO,Fernando Alonso,Aston Martin,0 days 00:01:28.548000,0 days 00:01:28.303000,,,13
+2025_R05,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:28.571000,0 days 00:01:28.418000,,,14
+2025_R05,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:28.536000,0 days 00:01:28.648000,,,15
+2025_R05,STR,Lance Stroll,Aston Martin,0 days 00:01:28.645000,,,,16
+2025_R05,DOO,Jack Doohan,Alpine,0 days 00:01:28.739000,,,,17
+2025_R05,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:28.782000,,,,18
+2025_R05,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:29.092000,,,,19
+2025_R05,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:29.462000,,,,20
+2025_R06,VER,Max Verstappen,Red Bull Racing,0 days 00:01:26.870000,0 days 00:01:26.643000,0 days 00:01:26.204000,,1
+2025_R06,NOR,Lando Norris,McLaren,0 days 00:01:26.955000,0 days 00:01:26.499000,0 days 00:01:26.269000,,2
+2025_R06,ANT,Kimi Antonelli,Mercedes,0 days 00:01:27.077000,0 days 00:01:26.606000,0 days 00:01:26.271000,,3
+2025_R06,PIA,Oscar Piastri,McLaren,0 days 00:01:27.006000,0 days 00:01:26.269000,0 days 00:01:26.375000,,4
+2025_R06,RUS,George Russell,Mercedes,0 days 00:01:27.014000,0 days 00:01:26.575000,0 days 00:01:26.385000,,5
+2025_R06,SAI,Carlos Sainz,Williams,0 days 00:01:27.098000,0 days 00:01:26.847000,0 days 00:01:26.569000,,6
+2025_R06,ALB,Alexander Albon,Williams,0 days 00:01:27.042000,0 days 00:01:26.855000,0 days 00:01:26.682000,,7
+2025_R06,LEC,Charles Leclerc,Ferrari,0 days 00:01:27.417000,0 days 00:01:26.948000,0 days 00:01:26.754000,,8
+2025_R06,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:27.450000,0 days 00:01:26.967000,0 days 00:01:26.824000,,9
+2025_R06,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:27.298000,0 days 00:01:26.959000,0 days 00:01:26.943000,,10
+2025_R06,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:27.301000,0 days 00:01:26.987000,,,11
+2025_R06,HAM,Lewis Hamilton,Ferrari,0 days 00:01:27.279000,0 days 00:01:27.006000,,,12
+2025_R06,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:27.343000,0 days 00:01:27.151000,,,13
+2025_R06,DOO,Jack Doohan,Alpine,0 days 00:01:27.422000,0 days 00:01:27.186000,,,14
+2025_R06,LAW,Liam Lawson,Racing Bulls,0 days 00:01:27.444000,0 days 00:01:27.363000,,,15
+2025_R06,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:27.473000,,,,16
+2025_R06,ALO,Fernando Alonso,Aston Martin,0 days 00:01:27.604000,,,,17
+2025_R06,GAS,Pierre Gasly,Alpine,0 days 00:01:27.710000,,,,18
+2025_R06,STR,Lance Stroll,Aston Martin,0 days 00:01:27.830000,,,,19
+2025_R06,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:27.999000,,,,20
+2025_R07,PIA,Oscar Piastri,McLaren,0 days 00:01:15.500000,0 days 00:01:15.214000,0 days 00:01:14.670000,,1
+2025_R07,VER,Max Verstappen,Red Bull Racing,0 days 00:01:15.175000,0 days 00:01:15.394000,0 days 00:01:14.704000,,2
+2025_R07,RUS,George Russell,Mercedes,0 days 00:01:15.852000,0 days 00:01:15.334000,0 days 00:01:14.807000,,3
+2025_R07,NOR,Lando Norris,McLaren,0 days 00:01:15.894000,0 days 00:01:15.261000,0 days 00:01:14.962000,,4
+2025_R07,ALO,Fernando Alonso,Aston Martin,0 days 00:01:15.695000,0 days 00:01:15.442000,0 days 00:01:15.431000,,5
+2025_R07,SAI,Carlos Sainz,Williams,0 days 00:01:15.987000,0 days 00:01:15.198000,0 days 00:01:15.432000,,6
+2025_R07,ALB,Alexander Albon,Williams,0 days 00:01:16.123000,0 days 00:01:15.521000,0 days 00:01:15.473000,,7
+2025_R07,STR,Lance Stroll,Aston Martin,0 days 00:01:15.817000,0 days 00:01:15.497000,0 days 00:01:15.581000,,8
+2025_R07,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:16.253000,0 days 00:01:15.510000,0 days 00:01:15.746000,,9
+2025_R07,GAS,Pierre Gasly,Alpine,0 days 00:01:15.937000,0 days 00:01:15.505000,0 days 00:01:15.787000,,10
+2025_R07,LEC,Charles Leclerc,Ferrari,0 days 00:01:16.108000,0 days 00:01:15.604000,,,11
+2025_R07,HAM,Lewis Hamilton,Ferrari,0 days 00:01:16.163000,0 days 00:01:15.765000,,,12
+2025_R07,ANT,Kimi Antonelli,Mercedes,0 days 00:01:15.943000,0 days 00:01:15.772000,,,13
+2025_R07,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:16.340000,0 days 00:01:16.260000,,,14
+2025_R07,COL,Franco Colapinto,Alpine,0 days 00:01:16.256000,,,,15
+2025_R07,LAW,Liam Lawson,Racing Bulls,0 days 00:01:16.379000,,,,16
+2025_R07,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:16.518000,,,,17
+2025_R07,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:16.613000,,,,18
+2025_R07,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:16.918000,,,,19
+2025_R07,TSU,Yuki Tsunoda,Red Bull Racing,,,,,20
+2025_R08,NOR,Lando Norris,McLaren,0 days 00:01:11.285000,0 days 00:01:10.570000,0 days 00:01:09.954000,,1
+2025_R08,LEC,Charles Leclerc,Ferrari,0 days 00:01:11.229000,0 days 00:01:10.581000,0 days 00:01:10.063000,,2
+2025_R08,PIA,Oscar Piastri,McLaren,0 days 00:01:11.308000,0 days 00:01:10.858000,0 days 00:01:10.129000,,3
+2025_R08,HAM,Lewis Hamilton,Ferrari,0 days 00:01:11.575000,0 days 00:01:10.883000,0 days 00:01:10.382000,,4
+2025_R08,VER,Max Verstappen,Red Bull Racing,0 days 00:01:11.431000,0 days 00:01:10.875000,0 days 00:01:10.669000,,5
+2025_R08,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:11.811000,0 days 00:01:11.040000,0 days 00:01:10.923000,,6
+2025_R08,ALO,Fernando Alonso,Aston Martin,0 days 00:01:11.674000,0 days 00:01:11.182000,0 days 00:01:10.924000,,7
+2025_R08,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:11.839000,0 days 00:01:11.262000,0 days 00:01:10.942000,,8
+2025_R08,LAW,Liam Lawson,Racing Bulls,0 days 00:01:11.818000,0 days 00:01:11.250000,0 days 00:01:11.129000,,9
+2025_R08,ALB,Alexander Albon,Williams,0 days 00:01:11.629000,0 days 00:01:10.732000,0 days 00:01:11.213000,,10
+2025_R08,SAI,Carlos Sainz,Williams,0 days 00:01:11.707000,0 days 00:01:11.362000,,,11
+2025_R08,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:11.800000,0 days 00:01:11.415000,,,12
+2025_R08,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:11.871000,0 days 00:01:11.596000,,,13
+2025_R08,RUS,George Russell,Mercedes,0 days 00:01:11.507000,,,,14
+2025_R08,ANT,Kimi Antonelli,Mercedes,0 days 00:01:11.880000,,,,15
+2025_R08,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:11.902000,,,,16
+2025_R08,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:11.979000,,,,17
+2025_R08,GAS,Pierre Gasly,Alpine,0 days 00:01:11.994000,,,,18
+2025_R08,STR,Lance Stroll,Aston Martin,0 days 00:01:12.563000,,,,19
+2025_R08,COL,Franco Colapinto,Alpine,0 days 00:01:12.597000,,,,20
+2025_R09,PIA,Oscar Piastri,McLaren,0 days 00:01:12.551000,0 days 00:01:11.998000,0 days 00:01:11.546000,,1
+2025_R09,NOR,Lando Norris,McLaren,0 days 00:01:12.799000,0 days 00:01:12.056000,0 days 00:01:11.755000,,2
+2025_R09,VER,Max Verstappen,Red Bull Racing,0 days 00:01:12.798000,0 days 00:01:12.358000,0 days 00:01:11.848000,,3
+2025_R09,RUS,George Russell,Mercedes,0 days 00:01:12.806000,0 days 00:01:12.407000,0 days 00:01:11.848000,,4
+2025_R09,HAM,Lewis Hamilton,Ferrari,0 days 00:01:13.058000,0 days 00:01:12.447000,0 days 00:01:12.045000,,5
+2025_R09,ANT,Kimi Antonelli,Mercedes,0 days 00:01:12.815000,0 days 00:01:12.585000,0 days 00:01:12.111000,,6
+2025_R09,LEC,Charles Leclerc,Ferrari,0 days 00:01:13.014000,0 days 00:01:12.495000,0 days 00:01:12.131000,,7
+2025_R09,GAS,Pierre Gasly,Alpine,0 days 00:01:13.081000,0 days 00:01:12.611000,0 days 00:01:12.199000,,8
+2025_R09,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:13.139000,0 days 00:01:12.461000,0 days 00:01:12.252000,,9
+2025_R09,ALO,Fernando Alonso,Aston Martin,0 days 00:01:13.102000,0 days 00:01:12.523000,0 days 00:01:12.284000,,10
+2025_R09,ALB,Alexander Albon,Williams,0 days 00:01:13.044000,0 days 00:01:12.641000,,,11
+2025_R09,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:13.045000,0 days 00:01:12.756000,,,12
+2025_R09,LAW,Liam Lawson,Racing Bulls,0 days 00:01:13.039000,0 days 00:01:12.763000,,,13
+2025_R09,STR,Lance Stroll,Aston Martin,0 days 00:01:13.038000,0 days 00:01:13.058000,,,14
+2025_R09,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:13.074000,0 days 00:01:13.315000,,,15
+2025_R09,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:13.190000,,,,16
+2025_R09,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:13.201000,,,,17
+2025_R09,SAI,Carlos Sainz,Williams,0 days 00:01:13.203000,,,,18
+2025_R09,COL,Franco Colapinto,Alpine,0 days 00:01:13.334000,,,,19
+2025_R09,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:13.385000,,,,20
+2025_R10,RUS,George Russell,Mercedes,0 days 00:01:12.075000,0 days 00:01:11.570000,0 days 00:01:10.899000,,1
+2025_R10,VER,Max Verstappen,Red Bull Racing,0 days 00:01:12.054000,0 days 00:01:11.638000,0 days 00:01:11.059000,,2
+2025_R10,PIA,Oscar Piastri,McLaren,0 days 00:01:11.939000,0 days 00:01:11.715000,0 days 00:01:11.120000,,3
+2025_R10,ANT,Kimi Antonelli,Mercedes,0 days 00:01:12.279000,0 days 00:01:11.974000,0 days 00:01:11.391000,,4
+2025_R10,HAM,Lewis Hamilton,Ferrari,0 days 00:01:11.952000,0 days 00:01:11.885000,0 days 00:01:11.526000,,5
+2025_R10,ALO,Fernando Alonso,Aston Martin,0 days 00:01:12.073000,0 days 00:01:11.805000,0 days 00:01:11.586000,,6
+2025_R10,NOR,Lando Norris,McLaren,0 days 00:01:11.826000,0 days 00:01:11.599000,0 days 00:01:11.625000,,7
+2025_R10,LEC,Charles Leclerc,Ferrari,0 days 00:01:12.038000,0 days 00:01:11.626000,0 days 00:01:11.682000,,8
+2025_R10,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:12.211000,0 days 00:01:12.003000,0 days 00:01:11.867000,,9
+2025_R10,ALB,Alexander Albon,Williams,0 days 00:01:12.090000,0 days 00:01:11.892000,0 days 00:01:11.907000,,10
+2025_R10,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:12.334000,0 days 00:01:12.102000,,,11
+2025_R10,COL,Franco Colapinto,Alpine,0 days 00:01:12.234000,0 days 00:01:12.142000,,,12
+2025_R10,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:12.323000,0 days 00:01:12.183000,,,13
+2025_R10,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:12.306000,0 days 00:01:12.340000,,,14
+2025_R10,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:12.378000,0 days 00:01:12.634000,,,15
+2025_R10,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:12.385000,,,,16
+2025_R10,SAI,Carlos Sainz,Williams,0 days 00:01:12.398000,,,,17
+2025_R10,STR,Lance Stroll,Aston Martin,0 days 00:01:12.517000,,,,18
+2025_R10,LAW,Liam Lawson,Racing Bulls,0 days 00:01:12.525000,,,,19
+2025_R10,GAS,Pierre Gasly,Alpine,0 days 00:01:12.667000,,,,20
+2025_R11,NOR,Lando Norris,McLaren,0 days 00:01:04.672000,0 days 00:01:04.410000,0 days 00:01:03.971000,,1
+2025_R11,LEC,Charles Leclerc,Ferrari,0 days 00:01:05.197000,0 days 00:01:04.734000,0 days 00:01:04.492000,,2
+2025_R11,PIA,Oscar Piastri,McLaren,0 days 00:01:04.966000,0 days 00:01:04.556000,0 days 00:01:04.554000,,3
+2025_R11,HAM,Lewis Hamilton,Ferrari,0 days 00:01:05.115000,0 days 00:01:04.896000,0 days 00:01:04.582000,,4
+2025_R11,RUS,George Russell,Mercedes,0 days 00:01:05.189000,0 days 00:01:04.860000,0 days 00:01:04.763000,,5
+2025_R11,LAW,Liam Lawson,Racing Bulls,0 days 00:01:05.017000,0 days 00:01:05.041000,0 days 00:01:04.926000,,6
+2025_R11,VER,Max Verstappen,Red Bull Racing,0 days 00:01:05.106000,0 days 00:01:04.836000,0 days 00:01:04.929000,,7
+2025_R11,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:05.123000,0 days 00:01:04.846000,0 days 00:01:05.132000,,8
+2025_R11,ANT,Kimi Antonelli,Mercedes,0 days 00:01:05.178000,0 days 00:01:05.052000,0 days 00:01:05.276000,,9
+2025_R11,GAS,Pierre Gasly,Alpine,0 days 00:01:05.054000,0 days 00:01:04.846000,0 days 00:01:05.649000,,10
+2025_R11,ALO,Fernando Alonso,Aston Martin,0 days 00:01:05.197000,0 days 00:01:05.128000,,,11
+2025_R11,ALB,Alexander Albon,Williams,0 days 00:01:05.143000,0 days 00:01:05.205000,,,12
+2025_R11,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:05.063000,0 days 00:01:05.226000,,,13
+2025_R11,COL,Franco Colapinto,Alpine,0 days 00:01:05.278000,0 days 00:01:05.288000,,,14
+2025_R11,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:05.218000,0 days 00:01:05.312000,,,15
+2025_R11,STR,Lance Stroll,Aston Martin,0 days 00:01:05.329000,,,,16
+2025_R11,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:05.364000,,,,17
+2025_R11,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:05.369000,,,,18
+2025_R11,SAI,Carlos Sainz,Williams,0 days 00:01:05.582000,,,,19
+2025_R11,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:05.606000,,,,20
+2025_R12,VER,Max Verstappen,Red Bull Racing,0 days 00:01:25.886000,0 days 00:01:25.316000,0 days 00:01:24.892000,,1
+2025_R12,PIA,Oscar Piastri,McLaren,0 days 00:01:25.963000,0 days 00:01:25.316000,0 days 00:01:24.995000,,2
+2025_R12,NOR,Lando Norris,McLaren,0 days 00:01:26.123000,0 days 00:01:25.231000,0 days 00:01:25.010000,,3
+2025_R12,RUS,George Russell,Mercedes,0 days 00:01:26.236000,0 days 00:01:25.637000,0 days 00:01:25.029000,,4
+2025_R12,HAM,Lewis Hamilton,Ferrari,0 days 00:01:26.296000,0 days 00:01:25.084000,0 days 00:01:25.095000,,5
+2025_R12,LEC,Charles Leclerc,Ferrari,0 days 00:01:26.186000,0 days 00:01:25.133000,0 days 00:01:25.121000,,6
+2025_R12,ANT,Kimi Antonelli,Mercedes,0 days 00:01:26.265000,0 days 00:01:25.620000,0 days 00:01:25.374000,,7
+2025_R12,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:26.005000,0 days 00:01:25.534000,0 days 00:01:25.471000,,8
+2025_R12,ALO,Fernando Alonso,Aston Martin,0 days 00:01:26.108000,0 days 00:01:25.593000,0 days 00:01:25.621000,,9
+2025_R12,GAS,Pierre Gasly,Alpine,0 days 00:01:26.328000,0 days 00:01:25.711000,0 days 00:01:25.785000,,10
+2025_R12,SAI,Carlos Sainz,Williams,0 days 00:01:26.175000,0 days 00:01:25.746000,,,11
+2025_R12,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:26.275000,0 days 00:01:25.826000,,,12
+2025_R12,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:26.177000,0 days 00:01:25.864000,,,13
+2025_R12,ALB,Alexander Albon,Williams,0 days 00:01:26.093000,0 days 00:01:25.889000,,,14
+2025_R12,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:26.136000,0 days 00:01:25.950000,,,15
+2025_R12,LAW,Liam Lawson,Racing Bulls,0 days 00:01:26.440000,,,,16
+2025_R12,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:26.446000,,,,17
+2025_R12,STR,Lance Stroll,Aston Martin,0 days 00:01:26.504000,,,,18
+2025_R12,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:26.574000,,,,19
+2025_R12,COL,Franco Colapinto,Alpine,0 days 00:01:27.060000,,,,20
+2025_R13,NOR,Lando Norris,McLaren,0 days 00:01:41.010000,0 days 00:01:40.715000,0 days 00:01:40.562000,,1
+2025_R13,PIA,Oscar Piastri,McLaren,0 days 00:01:41.201000,0 days 00:01:40.626000,0 days 00:01:40.647000,,2
+2025_R13,LEC,Charles Leclerc,Ferrari,0 days 00:01:41.635000,0 days 00:01:41.084000,0 days 00:01:40.900000,,3
+2025_R13,VER,Max Verstappen,Red Bull Racing,0 days 00:01:41.334000,0 days 00:01:40.951000,0 days 00:01:40.903000,,4
+2025_R13,ALB,Alexander Albon,Williams,0 days 00:01:41.772000,0 days 00:01:41.505000,0 days 00:01:41.201000,,5
+2025_R13,RUS,George Russell,Mercedes,0 days 00:01:41.784000,0 days 00:01:41.254000,0 days 00:01:41.260000,,6
+2025_R13,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:41.840000,0 days 00:01:41.245000,0 days 00:01:41.284000,,7
+2025_R13,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:41.572000,0 days 00:01:41.281000,0 days 00:01:41.310000,,8
+2025_R13,LAW,Liam Lawson,Racing Bulls,0 days 00:01:41.748000,0 days 00:01:41.297000,0 days 00:01:41.328000,,9
+2025_R13,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:41.908000,0 days 00:01:41.336000,0 days 00:01:42.387000,,10
+2025_R13,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:41.884000,0 days 00:01:41.525000,,,11
+2025_R13,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:41.617000,0 days 00:01:41.617000,,,12
+2025_R13,GAS,Pierre Gasly,Alpine,0 days 00:01:41.800000,0 days 00:01:41.633000,,,13
+2025_R13,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:41.844000,0 days 00:01:41.707000,,,14
+2025_R13,SAI,Carlos Sainz,Williams,0 days 00:01:41.691000,0 days 00:01:41.758000,,,15
+2025_R13,HAM,Lewis Hamilton,Ferrari,0 days 00:01:41.939000,,,,16
+2025_R13,COL,Franco Colapinto,Alpine,0 days 00:01:42.022000,,,,17
+2025_R13,ANT,Kimi Antonelli,Mercedes,0 days 00:01:42.139000,,,,18
+2025_R13,ALO,Fernando Alonso,Aston Martin,0 days 00:01:42.385000,,,,19
+2025_R13,STR,Lance Stroll,Aston Martin,0 days 00:01:42.502000,,,,20
+2025_R14,LEC,Charles Leclerc,Ferrari,0 days 00:01:15.582000,0 days 00:01:15.455000,0 days 00:01:15.372000,,1
+2025_R14,PIA,Oscar Piastri,McLaren,0 days 00:01:15.211000,0 days 00:01:14.941000,0 days 00:01:15.398000,,2
+2025_R14,NOR,Lando Norris,McLaren,0 days 00:01:15.523000,0 days 00:01:14.890000,0 days 00:01:15.413000,,3
+2025_R14,RUS,George Russell,Mercedes,0 days 00:01:15.627000,0 days 00:01:15.201000,0 days 00:01:15.425000,,4
+2025_R14,ALO,Fernando Alonso,Aston Martin,0 days 00:01:15.281000,0 days 00:01:15.395000,0 days 00:01:15.481000,,5
+2025_R14,STR,Lance Stroll,Aston Martin,0 days 00:01:15.673000,0 days 00:01:15.129000,0 days 00:01:15.498000,,6
+2025_R14,BOR,Gabriel Bortoleto,Kick Sauber,0 days 00:01:15.586000,0 days 00:01:15.687000,0 days 00:01:15.725000,,7
+2025_R14,VER,Max Verstappen,Red Bull Racing,0 days 00:01:15.736000,0 days 00:01:15.547000,0 days 00:01:15.728000,,8
+2025_R14,LAW,Liam Lawson,Racing Bulls,0 days 00:01:15.849000,0 days 00:01:15.630000,0 days 00:01:15.821000,,9
+2025_R14,HAD,Isack Hadjar,Racing Bulls,0 days 00:01:15.516000,0 days 00:01:15.469000,0 days 00:01:15.915000,,10
+2025_R14,BEA,Oliver Bearman,Haas F1 Team,0 days 00:01:15.750000,0 days 00:01:15.694000,,,11
+2025_R14,HAM,Lewis Hamilton,Ferrari,0 days 00:01:15.733000,0 days 00:01:15.702000,,,12
+2025_R14,SAI,Carlos Sainz,Williams,0 days 00:01:15.652000,0 days 00:01:15.781000,,,13
+2025_R14,COL,Franco Colapinto,Alpine,0 days 00:01:15.875000,0 days 00:01:16.159000,,,14
+2025_R14,ANT,Kimi Antonelli,Mercedes,0 days 00:01:15.782000,0 days 00:01:16.386000,,,15
+2025_R14,TSU,Yuki Tsunoda,Red Bull Racing,0 days 00:01:15.899000,,,,16
+2025_R14,GAS,Pierre Gasly,Alpine,0 days 00:01:15.966000,,,,17
+2025_R14,OCO,Esteban Ocon,Haas F1 Team,0 days 00:01:16.023000,,,,18
+2025_R14,HUL,Nico Hulkenberg,Kick Sauber,0 days 00:01:16.081000,,,,19
+2025_R14,ALB,Alexander Albon,Williams,0 days 00:01:16.223000,,,,20

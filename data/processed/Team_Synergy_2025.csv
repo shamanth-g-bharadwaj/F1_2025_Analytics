@@ -1,0 +1,11 @@
+teamName,driver1Name,driver1Points,driver2Name,driver2Points,synergyIndex
+Alpine,Pierre Gasly,20,Jack Doohan,0,0
+Aston Martin,Fernando Alonso,26,Lance Stroll,26,1
+Ferrari,Charles Leclerc,151,Lewis Hamilton,109,0.838
+Haas,Esteban Ocon,27,Oliver Bearman,8,0.457
+Kick Sauber,Nico Hulkenberg,37,Gabriel Bortoleto,14,0.549
+McLaren,Oscar Piastri,284,Lando Norris,275,0.984
+Mercedes,George Russell,172,Kimi Antonelli,64,0.542
+Racing Bulls,Isack Hadjar,22,Liam Lawson,20,0.952
+Red Bull Racing,Max Verstappen,187,Yuki Tsunoda,10,0.102
+Williams,Alexander Albon,54,Carlos Sainz,16,0.457
