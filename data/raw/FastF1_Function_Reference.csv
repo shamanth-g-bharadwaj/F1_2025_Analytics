@@ -1,0 +1,20 @@
+Function,Purpose,Inputs,Returns,Description
+list_seasons(),Lists all seasons available via FastF1,None,List of years,"Use this to see all F1 seasons you can access (e.g., 2018–2024)."
+list_events(year),Lists all events in a given year,year (int),DataFrame of races,"Get all races in a year, including location and round number."
+"get_event(year, event)",Fetches full event metadata,"year (int), event (name, round, or location)",Event object,Retrieves a race weekend object to inspect sessions and dates.
+"get_session(year, event, session_type)","Loads specific session (e.g., FP1, Q, R)","year, event (name), session_type (FP1/Q/R etc.)",Session object,"Main entry point to load session data like laps, telemetry, weather."
+"list_sessions(year, event)",Lists sessions available in an event,"year, event",List of session types,Check which session types are available for a race weekend.
+session.load(),Loads all data into memory,None,None (loads into session object),Must call this after get_session() to access session data.
+session.laps,Access all lap data,None (attribute),DataFrame of laps,"Lap-by-lap data including times, sectors, driver, stint, tyre, etc."
+session.results,Access session results/classification,None (attribute),DataFrame of final results,"Driver positions, points, team info, and status (finished, DNF)."
+session.weather_data,Weather conditions during session,None (attribute),DataFrame,"Track temperature, wind, humidity, rain at 1-min intervals."
+session.get_driver(driver_code),Get driver info object,"driver_code (e.g., 'VER')",Driver object,"Returns driver’s name, abbreviation, number, team, etc."
+session.get_pit_stops(driver_code),Pit stop info for driver,driver_code,DataFrame,"Lap of pit stop, duration, and total stop time for a driver."
+session.get_pos_data(driver_code),Driver's position over time,driver_code,DataFrame,Driver position through race laps for graphing or analysis.
+session.track_status,Track status flags and events,None (attribute),DataFrame,"Green, yellow, SC, red flag events with timing and type."
+lap.get_car_data(),Telemetry data for a specific lap,None (called on Lap object),DataFrame,"Speed, throttle, brake, gear, RPM, DRS, over lap distance/time."
+get_driver_name(code),Get full driver name from code,"driver code (e.g., 'LEC')",String (name),Convenience function to convert abbreviation to full name.
+fastf1.ergast.Ergast(),Access historic F1 data (standings),None (instantiate object),Ergast object,"Provides functions for constructor/driver standings, race results."
+ergast.get_driver_standings(year),Get final driver standings,year,DataFrame,"Points, wins, position for each driver in the season."
+ergast.get_constructor_standings(year),Get final constructor standings,year,DataFrame,Points and rank for each constructor/team.
+session.get_tyre_data(),Get experimental tyre stint data,None,DataFrame,"Tyre compound, stint length, and usage (experimental feature)."
