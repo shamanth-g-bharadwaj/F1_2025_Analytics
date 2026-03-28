@@ -63,3 +63,5 @@ The dashboard includes four analytical views:
 - **Driver Performance** — pace, consistency, podiums, points, and comparative metrics
 - **Team Performance** — constructor standings, points contribution, and performance comparison
 - **Race & Tyre Strategy** — compound usage, stint behaviour, and race strategy insights
+
+https://app.powerbi.com/view?r=eyJrIjoiYzRhYWVlMTQtYWM2MS00MmY1LWJlNWQtZjA5NmRkZGRhNGNiIiwidCI6ImViOTE4MGVkLTY2ODYtNDVmZi04MmMxLTliMDEyZGY1MTNlMiIsImMiOjh9
