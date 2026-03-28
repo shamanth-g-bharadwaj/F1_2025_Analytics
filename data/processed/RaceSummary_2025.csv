@@ -1,0 +1,280 @@
+raceId,raceName,driverId,driverName,finalPosition,fastestLap
+2025_R01,Australian Grand Prix,NOR,Lando Norris,1,01:22.167
+2025_R01,Australian Grand Prix,VER,Max Verstappen,2,01:23.081
+2025_R01,Australian Grand Prix,RUS,George Russell,3,01:25.064
+2025_R01,Australian Grand Prix,ANT,Andrea Kimi Antonelli,4,01:24.900
+2025_R01,Australian Grand Prix,ALB,Alexander Albon,5,01:24.596
+2025_R01,Australian Grand Prix,STR,Lance Stroll,6,01:25.537
+2025_R01,Australian Grand Prix,HUL,Nico Hulkenberg,7,01:25.242
+2025_R01,Australian Grand Prix,LEC,Charles Leclerc,8,01:25.271
+2025_R01,Australian Grand Prix,PIA,Oscar Piastri,9,01:23.242
+2025_R01,Australian Grand Prix,HAM,Lewis Hamilton,10,01:24.218
+2025_R01,Australian Grand Prix,GAS,Pierre Gasly,11,01:25.019
+2025_R01,Australian Grand Prix,TSU,Yuki Tsunoda,12,01:24.194
+2025_R01,Australian Grand Prix,OCO,Esteban Ocon,13,01:26.763
+2025_R01,Australian Grand Prix,BEA,Oliver Bearman,14,01:27.602
+2025_R01,Australian Grand Prix,LAW,Liam Lawson,15,01:22.969
+2025_R01,Australian Grand Prix,BOR,Gabriel Bortoleto,16,01:24.191
+2025_R01,Australian Grand Prix,ALO,Fernando Alonso,17,01:28.819
+2025_R01,Australian Grand Prix,SAI,Carlos Sainz,18,
+2025_R01,Australian Grand Prix,DOO,Jack Doohan,19,
+2025_R01,Australian Grand Prix,HAD,Isack Hadjar,20,
+2025_R02,Chinese Grand Prix,PIA,Oscar Piastri,1,01:35.519
+2025_R02,Chinese Grand Prix,NOR,Lando Norris,2,01:35.453
+2025_R02,Chinese Grand Prix,RUS,George Russell,3,01:35.816
+2025_R02,Chinese Grand Prix,VER,Max Verstappen,4,01:35.487
+2025_R02,Chinese Grand Prix,OCO,Esteban Ocon,5,01:35.739
+2025_R02,Chinese Grand Prix,ANT,Kimi Antonelli,6,01:36.046
+2025_R02,Chinese Grand Prix,ALB,Alexander Albon,7,01:36.254
+2025_R02,Chinese Grand Prix,BEA,Oliver Bearman,8,01:36.362
+2025_R02,Chinese Grand Prix,STR,Lance Stroll,9,01:36.043
+2025_R02,Chinese Grand Prix,SAI,Carlos Sainz,10,01:36.778
+2025_R02,Chinese Grand Prix,HAD,Isack Hadjar,11,01:35.867
+2025_R02,Chinese Grand Prix,LAW,Liam Lawson,12,01:35.984
+2025_R02,Chinese Grand Prix,DOO,Jack Doohan,13,01:36.424
+2025_R02,Chinese Grand Prix,BOR,Gabriel Bortoleto,14,01:35.873
+2025_R02,Chinese Grand Prix,HUL,Nico Hulkenberg,15,01:37.275
+2025_R02,Chinese Grand Prix,TSU,Yuki Tsunoda,16,01:35.870
+2025_R02,Chinese Grand Prix,ALO,Fernando Alonso,17,01:39.256
+2025_R02,Chinese Grand Prix,LEC,Charles Leclerc,18,01:36.156
+2025_R02,Chinese Grand Prix,HAM,Lewis Hamilton,19,01:35.069
+2025_R02,Chinese Grand Prix,GAS,Pierre Gasly,20,01:36.424
+2025_R03,Japanese Grand Prix,VER,Max Verstappen,1,01:31.040
+2025_R03,Japanese Grand Prix,NOR,Lando Norris,2,01:31.115
+2025_R03,Japanese Grand Prix,PIA,Oscar Piastri,3,01:31.039
+2025_R03,Japanese Grand Prix,LEC,Charles Leclerc,4,01:31.468
+2025_R03,Japanese Grand Prix,RUS,George Russell,5,01:31.356
+2025_R03,Japanese Grand Prix,ANT,Kimi Antonelli,6,01:30.965
+2025_R03,Japanese Grand Prix,HAM,Lewis Hamilton,7,01:31.406
+2025_R03,Japanese Grand Prix,HAD,Isack Hadjar,8,01:31.316
+2025_R03,Japanese Grand Prix,ALB,Alexander Albon,9,01:31.125
+2025_R03,Japanese Grand Prix,BEA,Oliver Bearman,10,01:32.006
+2025_R03,Japanese Grand Prix,ALO,Fernando Alonso,11,01:31.769
+2025_R03,Japanese Grand Prix,TSU,Yuki Tsunoda,12,01:31.870
+2025_R03,Japanese Grand Prix,GAS,Pierre Gasly,13,01:31.819
+2025_R03,Japanese Grand Prix,SAI,Carlos Sainz,14,01:31.105
+2025_R03,Japanese Grand Prix,DOO,Jack Doohan,15,01:32.685
+2025_R03,Japanese Grand Prix,HUL,Nico Hulkenberg,16,01:32.572
+2025_R03,Japanese Grand Prix,LAW,Liam Lawson,17,01:32.043
+2025_R03,Japanese Grand Prix,OCO,Esteban Ocon,18,01:31.966
+2025_R03,Japanese Grand Prix,BOR,Gabriel Bortoleto,19,01:32.034
+2025_R03,Japanese Grand Prix,STR,Lance Stroll,20,01:32.052
+2025_R04,Bahrain Grand Prix,PIA,Oscar Piastri,1,01:35.140
+2025_R04,Bahrain Grand Prix,RUS,George Russell,2,01:35.518
+2025_R04,Bahrain Grand Prix,NOR,Lando Norris,3,01:35.727
+2025_R04,Bahrain Grand Prix,LEC,Charles Leclerc,4,01:36.132
+2025_R04,Bahrain Grand Prix,HAM,Lewis Hamilton,5,01:36.234
+2025_R04,Bahrain Grand Prix,VER,Max Verstappen,6,01:36.167
+2025_R04,Bahrain Grand Prix,GAS,Pierre Gasly,7,01:36.531
+2025_R04,Bahrain Grand Prix,OCO,Esteban Ocon,8,01:37.097
+2025_R04,Bahrain Grand Prix,TSU,Yuki Tsunoda,9,01:37.224
+2025_R04,Bahrain Grand Prix,BEA,Oliver Bearman,10,01:37.302
+2025_R04,Bahrain Grand Prix,ANT,Kimi Antonelli,11,01:36.689
+2025_R04,Bahrain Grand Prix,ALB,Alexander Albon,12,01:37.141
+2025_R04,Bahrain Grand Prix,HAD,Isack Hadjar,13,01:36.951
+2025_R04,Bahrain Grand Prix,DOO,Jack Doohan,14,01:36.682
+2025_R04,Bahrain Grand Prix,ALO,Fernando Alonso,15,01:37.906
+2025_R04,Bahrain Grand Prix,LAW,Liam Lawson,16,01:37.379
+2025_R04,Bahrain Grand Prix,STR,Lance Stroll,17,01:38.063
+2025_R04,Bahrain Grand Prix,BOR,Gabriel Bortoleto,18,01:38.006
+2025_R04,Bahrain Grand Prix,SAI,Carlos Sainz,19,01:36.953
+2025_R04,Bahrain Grand Prix,HUL,Nico Hulkenberg,20,01:37.337
+2025_R05,Saudi Arabian Grand Prix,PIA,Oscar Piastri,1,01:32.227
+2025_R05,Saudi Arabian Grand Prix,VER,Max Verstappen,2,01:32.280
+2025_R05,Saudi Arabian Grand Prix,LEC,Charles Leclerc,3,01:32.191
+2025_R05,Saudi Arabian Grand Prix,NOR,Lando Norris,4,01:31.778
+2025_R05,Saudi Arabian Grand Prix,RUS,George Russell,5,01:32.893
+2025_R05,Saudi Arabian Grand Prix,ANT,Kimi Antonelli,6,01:32.396
+2025_R05,Saudi Arabian Grand Prix,HAM,Lewis Hamilton,7,01:32.599
+2025_R05,Saudi Arabian Grand Prix,SAI,Carlos Sainz,8,01:32.465
+2025_R05,Saudi Arabian Grand Prix,ALB,Alexander Albon,9,01:33.477
+2025_R05,Saudi Arabian Grand Prix,HAD,Isack Hadjar,10,01:33.257
+2025_R05,Saudi Arabian Grand Prix,ALO,Fernando Alonso,11,01:33.009
+2025_R05,Saudi Arabian Grand Prix,LAW,Liam Lawson,12,01:32.998
+2025_R05,Saudi Arabian Grand Prix,BEA,Oliver Bearman,13,01:33.237
+2025_R05,Saudi Arabian Grand Prix,OCO,Esteban Ocon,14,01:34.308
+2025_R05,Saudi Arabian Grand Prix,HUL,Nico Hulkenberg,15,01:33.445
+2025_R05,Saudi Arabian Grand Prix,STR,Lance Stroll,16,01:32.745
+2025_R05,Saudi Arabian Grand Prix,DOO,Jack Doohan,17,01:33.150
+2025_R05,Saudi Arabian Grand Prix,BOR,Gabriel Bortoleto,18,01:34.447
+2025_R05,Saudi Arabian Grand Prix,TSU,Yuki Tsunoda,19,02:45.662
+2025_R05,Saudi Arabian Grand Prix,GAS,Pierre Gasly,20,
+2025_R06,Miami Grand Prix,PIA,Oscar Piastri,1,01:29.822
+2025_R06,Miami Grand Prix,NOR,Lando Norris,2,01:29.745
+2025_R06,Miami Grand Prix,RUS,George Russell,3,01:30.317
+2025_R06,Miami Grand Prix,VER,Max Verstappen,4,01:30.465
+2025_R06,Miami Grand Prix,ALB,Alexander Albon,5,01:30.481
+2025_R06,Miami Grand Prix,ANT,Kimi Antonelli,6,01:30.795
+2025_R06,Miami Grand Prix,LEC,Charles Leclerc,7,01:30.460
+2025_R06,Miami Grand Prix,HAM,Lewis Hamilton,8,01:30.561
+2025_R06,Miami Grand Prix,SAI,Carlos Sainz,9,01:30.703
+2025_R06,Miami Grand Prix,TSU,Yuki Tsunoda,10,01:30.963
+2025_R06,Miami Grand Prix,HAD,Isack Hadjar,11,01:30.971
+2025_R06,Miami Grand Prix,OCO,Esteban Ocon,12,01:31.121
+2025_R06,Miami Grand Prix,GAS,Pierre Gasly,13,01:31.159
+2025_R06,Miami Grand Prix,HUL,Nico Hulkenberg,14,01:31.015
+2025_R06,Miami Grand Prix,ALO,Fernando Alonso,15,01:31.287
+2025_R06,Miami Grand Prix,STR,Lance Stroll,16,01:31.769
+2025_R06,Miami Grand Prix,LAW,Liam Lawson,17,01:31.769
+2025_R06,Miami Grand Prix,BOR,Gabriel Bortoleto,18,01:32.328
+2025_R06,Miami Grand Prix,BEA,Oliver Bearman,19,01:32.680
+2025_R06,Miami Grand Prix,DOO,Jack Doohan,20,
+2025_R07,Emilia Romagna Grand Prix,VER,Max Verstappen,1,01:17.987
+2025_R07,Emilia Romagna Grand Prix,NOR,Lando Norris,2,01:18.311
+2025_R07,Emilia Romagna Grand Prix,PIA,Oscar Piastri,3,01:18.894
+2025_R07,Emilia Romagna Grand Prix,HAM,Lewis Hamilton,4,01:18.265
+2025_R07,Emilia Romagna Grand Prix,ALB,Alexander Albon,5,01:18.289
+2025_R07,Emilia Romagna Grand Prix,LEC,Charles Leclerc,6,01:19.048
+2025_R07,Emilia Romagna Grand Prix,RUS,George Russell,7,01:19.733
+2025_R07,Emilia Romagna Grand Prix,SAI,Carlos Sainz,8,01:19.835
+2025_R07,Emilia Romagna Grand Prix,HAD,Isack Hadjar,9,01:19.472
+2025_R07,Emilia Romagna Grand Prix,TSU,Yuki Tsunoda,10,01:20.039
+2025_R07,Emilia Romagna Grand Prix,ALO,Fernando Alonso,11,01:19.894
+2025_R07,Emilia Romagna Grand Prix,HUL,Nico Hulkenberg,12,01:20.400
+2025_R07,Emilia Romagna Grand Prix,GAS,Pierre Gasly,13,01:20.397
+2025_R07,Emilia Romagna Grand Prix,LAW,Liam Lawson,14,01:20.472
+2025_R07,Emilia Romagna Grand Prix,STR,Lance Stroll,15,01:20.501
+2025_R07,Emilia Romagna Grand Prix,COL,Franco Colapinto,16,01:20.344
+2025_R07,Emilia Romagna Grand Prix,BEA,Oliver Bearman,17,01:19.521
+2025_R07,Emilia Romagna Grand Prix,BOR,Gabriel Bortoleto,18,01:20.629
+2025_R07,Emilia Romagna Grand Prix,ANT,Kimi Antonelli,19,01:20.620
+2025_R07,Emilia Romagna Grand Prix,OCO,Esteban Ocon,20,01:21.412
+2025_R08,Monaco Grand Prix,NOR,Lando Norris,1,01:13.221
+2025_R08,Monaco Grand Prix,LEC,Charles Leclerc,2,01:14.055
+2025_R08,Monaco Grand Prix,PIA,Oscar Piastri,3,01:13.745
+2025_R08,Monaco Grand Prix,VER,Max Verstappen,4,01:14.230
+2025_R08,Monaco Grand Prix,HAM,Lewis Hamilton,5,01:14.090
+2025_R08,Monaco Grand Prix,HAD,Isack Hadjar,6,01:15.980
+2025_R08,Monaco Grand Prix,OCO,Esteban Ocon,7,01:15.156
+2025_R08,Monaco Grand Prix,LAW,Liam Lawson,8,01:15.320
+2025_R08,Monaco Grand Prix,ALB,Alexander Albon,9,01:14.596
+2025_R08,Monaco Grand Prix,SAI,Carlos Sainz,10,01:13.987
+2025_R08,Monaco Grand Prix,RUS,George Russell,11,01:13.405
+2025_R08,Monaco Grand Prix,BEA,Oliver Bearman,12,01:14.855
+2025_R08,Monaco Grand Prix,COL,Franco Colapinto,13,01:15.298
+2025_R08,Monaco Grand Prix,BOR,Gabriel Bortoleto,14,01:14.884
+2025_R08,Monaco Grand Prix,STR,Lance Stroll,15,01:14.876
+2025_R08,Monaco Grand Prix,HUL,Nico Hulkenberg,16,01:15.222
+2025_R08,Monaco Grand Prix,TSU,Yuki Tsunoda,17,01:14.912
+2025_R08,Monaco Grand Prix,ANT,Kimi Antonelli,18,01:13.518
+2025_R08,Monaco Grand Prix,ALO,Fernando Alonso,19,01:15.593
+2025_R08,Monaco Grand Prix,GAS,Pierre Gasly,20,01:18.054
+2025_R09,Spanish Grand Prix,PIA,Oscar Piastri,1,01:15.742
+2025_R09,Spanish Grand Prix,NOR,Lando Norris,2,01:16.186
+2025_R09,Spanish Grand Prix,LEC,Charles Leclerc,3,01:17.259
+2025_R09,Spanish Grand Prix,RUS,George Russell,4,01:17.243
+2025_R09,Spanish Grand Prix,HUL,Nico Hulkenberg,5,01:17.575
+2025_R09,Spanish Grand Prix,HAM,Lewis Hamilton,6,01:17.706
+2025_R09,Spanish Grand Prix,HAD,Isack Hadjar,7,01:17.769
+2025_R09,Spanish Grand Prix,GAS,Pierre Gasly,8,01:17.896
+2025_R09,Spanish Grand Prix,ALO,Fernando Alonso,9,01:18.128
+2025_R09,Spanish Grand Prix,VER,Max Verstappen,10,01:17.019
+2025_R09,Spanish Grand Prix,LAW,Liam Lawson,11,01:19.424
+2025_R09,Spanish Grand Prix,BOR,Gabriel Bortoleto,12,01:18.296
+2025_R09,Spanish Grand Prix,TSU,Yuki Tsunoda,13,01:17.998
+2025_R09,Spanish Grand Prix,SAI,Carlos Sainz,14,01:19.316
+2025_R09,Spanish Grand Prix,COL,Franco Colapinto,15,01:18.352
+2025_R09,Spanish Grand Prix,OCO,Esteban Ocon,16,01:18.623
+2025_R09,Spanish Grand Prix,BEA,Oliver Bearman,17,01:18.906
+2025_R09,Spanish Grand Prix,ANT,Kimi Antonelli,18,01:18.254
+2025_R09,Spanish Grand Prix,ALB,Alexander Albon,19,01:20.507
+2025_R10,Canadian Grand Prix,RUS,George Russell,1,01:14.118
+2025_R10,Canadian Grand Prix,VER,Max Verstappen,2,01:14.287
+2025_R10,Canadian Grand Prix,ANT,Kimi Antonelli,3,01:14.454
+2025_R10,Canadian Grand Prix,PIA,Oscar Piastri,4,01:14.254
+2025_R10,Canadian Grand Prix,LEC,Charles Leclerc,5,01:14.260
+2025_R10,Canadian Grand Prix,HAM,Lewis Hamilton,6,01:14.805
+2025_R10,Canadian Grand Prix,ALO,Fernando Alonso,7,01:15.024
+2025_R10,Canadian Grand Prix,HUL,Nico Hulkenberg,8,01:15.371
+2025_R10,Canadian Grand Prix,OCO,Esteban Ocon,9,01:14.593
+2025_R10,Canadian Grand Prix,SAI,Carlos Sainz,10,01:14.388
+2025_R10,Canadian Grand Prix,BEA,Oliver Bearman,11,01:15.397
+2025_R10,Canadian Grand Prix,TSU,Yuki Tsunoda,12,01:15.358
+2025_R10,Canadian Grand Prix,COL,Franco Colapinto,13,01:16.075
+2025_R10,Canadian Grand Prix,BOR,Gabriel Bortoleto,14,01:15.414
+2025_R10,Canadian Grand Prix,GAS,Pierre Gasly,15,01:14.992
+2025_R10,Canadian Grand Prix,HAD,Isack Hadjar,16,01:16.292
+2025_R10,Canadian Grand Prix,STR,Lance Stroll,17,01:14.902
+2025_R10,Canadian Grand Prix,NOR,Lando Norris,18,01:14.228
+2025_R10,Canadian Grand Prix,LAW,Liam Lawson,19,01:16.319
+2025_R10,Canadian Grand Prix,ALB,Alexander Albon,20,01:16.197
+2025_R11,Austrian Grand Prix,NOR,Lando Norris,1,01:08.272
+2025_R11,Austrian Grand Prix,PIA,Oscar Piastri,2,01:07.924
+2025_R11,Austrian Grand Prix,LEC,Charles Leclerc,3,01:08.765
+2025_R11,Austrian Grand Prix,HAM,Lewis Hamilton,4,01:08.628
+2025_R11,Austrian Grand Prix,RUS,George Russell,5,01:09.371
+2025_R11,Austrian Grand Prix,LAW,Liam Lawson,6,01:09.977
+2025_R11,Austrian Grand Prix,ALO,Fernando Alonso,7,01:09.935
+2025_R11,Austrian Grand Prix,BOR,Gabriel Bortoleto,8,01:09.246
+2025_R11,Austrian Grand Prix,HUL,Nico Hulkenberg,9,01:09.459
+2025_R11,Austrian Grand Prix,OCO,Esteban Ocon,10,01:09.549
+2025_R11,Austrian Grand Prix,BEA,Oliver Bearman,11,01:09.959
+2025_R11,Austrian Grand Prix,HAD,Isack Hadjar,12,01:10.203
+2025_R11,Austrian Grand Prix,GAS,Pierre Gasly,13,01:10.150
+2025_R11,Austrian Grand Prix,STR,Lance Stroll,14,01:09.213
+2025_R11,Austrian Grand Prix,COL,Franco Colapinto,15,01:09.620
+2025_R11,Austrian Grand Prix,TSU,Yuki Tsunoda,16,01:09.802
+2025_R11,Austrian Grand Prix,ALB,Alexander Albon,17,01:10.641
+2025_R11,Austrian Grand Prix,VER,Max Verstappen,18,
+2025_R11,Austrian Grand Prix,ANT,Kimi Antonelli,19,
+2025_R11,Austrian Grand Prix,SAI,Carlos Sainz,20,
+2025_R12,British Grand Prix,NOR,Lando Norris,1,01:29.733
+2025_R12,British Grand Prix,PIA,Oscar Piastri,2,01:29.337
+2025_R12,British Grand Prix,HUL,Nico Hulkenberg,3,01:30.933
+2025_R12,British Grand Prix,HAM,Lewis Hamilton,4,01:30.016
+2025_R12,British Grand Prix,VER,Max Verstappen,5,01:30.179
+2025_R12,British Grand Prix,GAS,Pierre Gasly,6,01:30.751
+2025_R12,British Grand Prix,STR,Lance Stroll,7,01:32.087
+2025_R12,British Grand Prix,ALB,Alexander Albon,8,01:30.046
+2025_R12,British Grand Prix,ALO,Fernando Alonso,9,01:30.352
+2025_R12,British Grand Prix,RUS,George Russell,10,01:30.868
+2025_R12,British Grand Prix,BEA,Oliver Bearman,11,01:30.921
+2025_R12,British Grand Prix,SAI,Carlos Sainz,12,01:30.644
+2025_R12,British Grand Prix,OCO,Esteban Ocon,13,01:30.817
+2025_R12,British Grand Prix,LEC,Charles Leclerc,14,01:30.819
+2025_R12,British Grand Prix,TSU,Yuki Tsunoda,15,01:30.873
+2025_R12,British Grand Prix,ANT,Kimi Antonelli,16,01:39.335
+2025_R12,British Grand Prix,HAD,Isack Hadjar,17,01:41.704
+2025_R12,British Grand Prix,BOR,Gabriel Bortoleto,18,02:15.201
+2025_R12,British Grand Prix,LAW,Liam Lawson,19,
+2025_R12,British Grand Prix,COL,Franco Colapinto,20,
+2025_R13,Belgian Grand Prix,PIA,Oscar Piastri,1,01:45.706
+2025_R13,Belgian Grand Prix,NOR,Lando Norris,2,01:45.257
+2025_R13,Belgian Grand Prix,LEC,Charles Leclerc,3,01:46.174
+2025_R13,Belgian Grand Prix,VER,Max Verstappen,4,01:46.096
+2025_R13,Belgian Grand Prix,RUS,George Russell,5,01:46.566
+2025_R13,Belgian Grand Prix,ALB,Alexander Albon,6,01:46.813
+2025_R13,Belgian Grand Prix,HAM,Lewis Hamilton,7,01:46.534
+2025_R13,Belgian Grand Prix,LAW,Liam Lawson,8,01:46.649
+2025_R13,Belgian Grand Prix,BOR,Gabriel Bortoleto,9,01:46.965
+2025_R13,Belgian Grand Prix,GAS,Pierre Gasly,10,01:47.177
+2025_R13,Belgian Grand Prix,BEA,Oliver Bearman,11,01:46.709
+2025_R13,Belgian Grand Prix,HUL,Nico Hulkenberg,12,01:45.067
+2025_R13,Belgian Grand Prix,TSU,Yuki Tsunoda,13,01:47.240
+2025_R13,Belgian Grand Prix,STR,Lance Stroll,14,01:47.212
+2025_R13,Belgian Grand Prix,OCO,Esteban Ocon,15,01:46.743
+2025_R13,Belgian Grand Prix,ANT,Kimi Antonelli,16,01:44.861
+2025_R13,Belgian Grand Prix,ALO,Fernando Alonso,17,01:45.849
+2025_R13,Belgian Grand Prix,SAI,Carlos Sainz,18,01:46.072
+2025_R13,Belgian Grand Prix,COL,Franco Colapinto,19,01:46.103
+2025_R13,Belgian Grand Prix,HAD,Isack Hadjar,20,01:47.667
+2025_R14,Hungarian Grand Prix,NOR,Lando Norris,1,01:19.918
+2025_R14,Hungarian Grand Prix,PIA,Oscar Piastri,2,01:19.412
+2025_R14,Hungarian Grand Prix,RUS,George Russell,3,01:19.409
+2025_R14,Hungarian Grand Prix,LEC,Charles Leclerc,4,01:20.439
+2025_R14,Hungarian Grand Prix,ALO,Fernando Alonso,5,01:20.112
+2025_R14,Hungarian Grand Prix,BOR,Gabriel Bortoleto,6,01:20.704
+2025_R14,Hungarian Grand Prix,STR,Lance Stroll,7,01:20.707
+2025_R14,Hungarian Grand Prix,LAW,Liam Lawson,8,01:20.456
+2025_R14,Hungarian Grand Prix,VER,Max Verstappen,9,01:19.575
+2025_R14,Hungarian Grand Prix,ANT,Kimi Antonelli,10,01:20.745
+2025_R14,Hungarian Grand Prix,HAD,Isack Hadjar,11,01:20.802
+2025_R14,Hungarian Grand Prix,HAM,Lewis Hamilton,12,01:20.022
+2025_R14,Hungarian Grand Prix,HUL,Nico Hulkenberg,13,01:20.013
+2025_R14,Hungarian Grand Prix,SAI,Carlos Sainz,14,01:19.790
+2025_R14,Hungarian Grand Prix,ALB,Alexander Albon,15,01:20.778
+2025_R14,Hungarian Grand Prix,OCO,Esteban Ocon,16,01:21.915
+2025_R14,Hungarian Grand Prix,TSU,Yuki Tsunoda,17,01:21.180
+2025_R14,Hungarian Grand Prix,COL,Franco Colapinto,18,01:20.826
+2025_R14,Hungarian Grand Prix,GAS,Pierre Gasly,19,01:21.433
+2025_R14,Hungarian Grand Prix,BEA,Oliver Bearman,20,01:21.989
